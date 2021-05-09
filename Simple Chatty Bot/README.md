@@ -1,6 +1,7 @@
 # Project: Simple Chatty Bot
 
 This project is by Jetbrains Academy.
+https://hyperskill.org/projects/113?track=1
 
 ## About
 
