@@ -1,4 +1,5 @@
 # Project: Simple Chatty Bot
+https://hyperskill.org/projects/126
 
 This project is by Jetbrains Academy.
 

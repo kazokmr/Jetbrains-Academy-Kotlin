@@ -1,4 +1,5 @@
 # Project: Minesweeper
+https://hyperskill.org/projects/8
 
 This project is by Jetbrains Academy.
 
